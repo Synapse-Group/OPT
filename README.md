@@ -1,2 +1,2 @@
-# PMIS
-Procurement Management Information System 
+# OPT
+Open Procurement Technology
